@@ -1,0 +1,16 @@
+node_modules/**
+node_modules
+
+.env
+
+videos/**
+videos
+
+screenshots/**
+screenshots
+
+downloads/**
+downloads
+
+reports/**
+reports

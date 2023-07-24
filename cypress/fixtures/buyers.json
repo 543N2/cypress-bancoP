@@ -1,0 +1,24 @@
+{
+    "Juan": {
+        "firstName": "Juan",
+        "lastName": "Perez",
+        "email": "juan.perez@mail.com",
+        "telephone": "3005553322",
+        "address1": "Calle 128 # 34-56",
+        "city": "Bogota D.C.",
+        "postcode": "5554433",
+        "country": "Colombia",
+        "zone": "Bogota D.C."
+    },
+    "Maria": {
+        "firstName": "Maria",
+        "lastName": "Ortiz",
+        "email": "maria.ortiz@mail.com",
+        "telephone": "3205678901",
+        "address1": "Carrera 44 # 33-00",
+        "city": "Bogota D.C.",
+        "postcode": "5554433",
+        "country": "Colombia",
+        "zone": "Bogota D.C."
+    }
+}
